@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Sep 05 21:40:30 2016
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : snr_test
+Top-level Entity Name : snr_test
+Family : Cyclone IV E
+Total logic elements : 1,719
+    Total combinational functions : 1,549
+    Dedicated logic registers : 904
+Total registers : 904
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 44,032
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Sep 05 21:40:50 2016
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : snr_test
+Top-level Entity Name : snr_test
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 1,628 / 6,272 ( 26 % )
+    Total combinational functions : 1,552 / 6,272 ( 25 % )
+    Dedicated logic registers : 896 / 6,272 ( 14 % )
+Total registers : 896
+Total pins : 10 / 92 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 44,032 / 276,480 ( 16 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
